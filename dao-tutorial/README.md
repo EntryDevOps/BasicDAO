@@ -1,0 +1,1 @@
+# to run this project, cd frontend -> npm run dev
